@@ -4,7 +4,7 @@ Shell script to install a [Pure Masternode](https://purealt.org) on a Linux serv
 
 ## Installation
 ```
-wget -N https://raw.githubusercontent.com/tokayseo/Pure/blob/master/pure_install.sh
+wget -N https://raw.githubusercontent.com/tokayseo/Pure/master/pure_install.sh
 bash pure_install.sh
 ```
 ***
